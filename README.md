@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hehe
-hoho
-=======
+hohe
 test
->>>>>>> main
