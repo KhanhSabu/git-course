@@ -1,0 +1,6 @@
+git config --global user.name "Khanh"
+git config --global user.email "khanhsabu@gmail.com"
+git config --global init.defaultBranch main
+
+ssh-keygen -t rsa -b 4096 -C "khanhsabu@gmail.com"
+cat ~/.ssh/id_rsa.pub
